@@ -1,12 +1,12 @@
 <img src="img/banner.png" alt="Hi, I'm Tigran">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=000000&quoteColor=ffffff&authorColor=ffffff&symbolColor=ffffff)](https://github.com/piyushsuthar/github-readme-quotes)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Mhitaryan-Tigran&theme=highcontrast&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mhitaryan-Tigran&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=000000&title_color=ffffff&ring_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhitaryan-Tigran&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Mhitaryan-Tigran&theme=highcontrast&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&hide_current_streak=true)](https://git.io/streak-stats)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mhitaryan_Tigran&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=000000&quoteColor=ffffff&authorColor=ffffff&symbolColor=ffffff)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h2> Currently learning </h2>
 
