@@ -6,6 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhitaryan-Tigran&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mhitaryan_Tigran&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Currently learning </h2>
 
