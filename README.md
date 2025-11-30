@@ -6,7 +6,6 @@
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Mhitaryan-Tigran&theme=highcontrast&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&hide_current_streak=true)](https://git.io/streak-stats)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mhitaryan_Tigran&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Currently learning </h2>
 
