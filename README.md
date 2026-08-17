@@ -2,11 +2,6 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=000000&quoteColor=ffffff&authorColor=ffffff&symbolColor=ffffff)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Mhitaryan-Tigran&theme=highcontrast&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Mhitaryan-Tigran&theme=highcontrast&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&hide_current_streak=true)](https://git.io/streak-stats)
-
-
 <h2> Currently learning </h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
