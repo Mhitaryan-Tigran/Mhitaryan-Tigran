@@ -44,5 +44,3 @@ The fold of a foldable phone for your laptop lid: the desktop tilts, blurs and s
 </td>
 </tr>
 </table>
-
-<p align="center"><sub>Signed and notarised, every one of them. Built in Rostov-on-Don.</sub></p>
