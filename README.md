@@ -22,9 +22,9 @@ Clawd on your desktop, one for every Claude Code session.
 A player in the notch, with cover, waveform and lyrics.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Mhitaryan-Tigran/claude-plugins/tree/main/brief"><img src="https://github.com/Mhitaryan-Tigran/claude-plugins/raw/main/brief/docs/hero.gif" alt="brief"></a>
+<a href="https://github.com/Mhitaryan-Tigran/claude-plugins"><img src="https://github.com/Mhitaryan-Tigran/claude-plugins/raw/main/prompt-boost/docs/hero.gif" alt="Claude Code plugins"></a>
 <h3><a href="https://github.com/Mhitaryan-Tigran/claude-plugins">Claude Code plugins</a></h3>
-Plugins for Claude Code, starting with brief for clearer prompts.
+Plugins for Claude Code that sharpen prompts and plans.
 </td>
 </tr>
 <tr>
