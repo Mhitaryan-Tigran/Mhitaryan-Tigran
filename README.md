@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="img/clawds.png" width="460" alt="Five Clawds dancing">
-</p>
-
 <h1 align="center">Tigran Macintosh</h1>
 
 <p align="center">I make small, native macOS apps that live in the notch, on the desktop and next to Claude Code.<br>Fullstack web by day, Swift by night.</p>
