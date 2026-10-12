@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Mhitaryan-Tigran/skywall"><img src="https://github.com/Mhitaryan-Tigran/skywall/raw/main/docs/films.webp" alt="Skywall"></a>
+<a href="https://github.com/Mhitaryan-Tigran/skywall"><img src="https://github.com/Mhitaryan-Tigran/skywall/raw/main/docs/promo.webp" alt="Skywall"></a>
 <h3><a href="https://github.com/Mhitaryan-Tigran/skywall">Skywall</a></h3>
 The aerial films macOS ships, as a live wallpaper. Pauses itself when the Mac is busy, locked or on battery saving. <a href="https://skywall.app">skywall.app</a>
 </td>
